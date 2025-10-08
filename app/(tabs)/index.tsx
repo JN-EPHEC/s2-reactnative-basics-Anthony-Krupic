@@ -1,7 +1,7 @@
 import { ScrollView, StyleSheet } from "react-native";
 import ProfileCard from "../../components/ProfileCard";
 
-
+// Carte pour les personnes
 
 const USERS_DATA = [
   { id: '1', nom: 'Alice Martin', email: 'alice.martin@email.com' },
